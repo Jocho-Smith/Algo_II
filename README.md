@@ -1,2 +1,2 @@
-# Algo_II
- SS20-Algo_2_Voslesung
+# Algo_II_SS20_Uni_Bonn
+ I will document my work on the exercises here.
